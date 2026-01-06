@@ -10,12 +10,6 @@
   <a href="https://github.com/MohamedMohy10?tab=repositories">
     <img alt="Repos" src="https://img.shields.io/badge/Repositories-40+-blue?style=flat-square" />
   </a>
-  <a href="https://github.com/MohamedMohy10?tab=stars">
-    <img alt="Stars" src="https://img.shields.io/github/stars/MohamedMohy10?style=flat-square" />
-  </a>
-  <a href="https://github.com/MohamedMohy10?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/MohamedMohy10?style=flat-square" />
-  </a>
 </p>
 
 ---
