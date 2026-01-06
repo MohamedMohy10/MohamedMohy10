@@ -18,10 +18,10 @@
 
 Python Developer and Software Engineer with a strong interest in Machine Learning and Artificial Intelligence. Passionate about learning, building innovative solutions, and contributing to data-driven projects. Skilled in developing applications and AI models to solve problems. Eager to grow in dynamic, collaborative environments and make meaningful impact through technology. 
 
-- 🔭 Currently pursuing an **M.Sc. in Artificial Intelligence Engineering**  
-- 💼 Experienced in developing **Python applications, and ML/AI solutions**  
-- 🧠 Passionate about solving real-world problems with code  
-- 🌍 Open to collaboration and professional opportunities
+- Currently pursuing an **M.Sc. in Artificial Intelligence Engineering**  
+- Experienced in developing **Python applications, and ML/AI solutions**  
+- Passionate about solving real-world problems with code  
+- Open to collaboration and professional opportunities
 
 ---
 
@@ -54,28 +54,6 @@ Python Developer and Software Engineer with a strong interest in Machine Learnin
 <img src="https://img.shields.io/badge/Telegram_Bot_API-0088CC?style=for-the-badge&logo=telegram" />
 </p>
 
-
----
-
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedmohy10/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mohamedmohy753@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MohamedMohy10&show_icons=true&theme=blue" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy10&layout=compact&theme=blue" />
-</p>
 
 ---
 
