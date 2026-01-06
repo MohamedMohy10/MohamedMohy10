@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohy</h1>
 <h3 align="center">Python Developer | Software Engineer | AI & Machine learning Engineer</h3>
 
+
 ## 🚀 About Me
 
 Python Developer and Software Engineer with a strong interest in Machine Learning and Artificial Intelligence. Passionate about learning, building innovative solutions, and contributing to data-driven projects. Skilled in developing applications and AI models to solve problems. Eager to grow in dynamic, collaborative environments and make meaningful impact through technology. 
