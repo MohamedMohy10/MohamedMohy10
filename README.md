@@ -43,13 +43,10 @@ Python Developer and Software Engineer with a strong interest in Machine Learnin
 <img src="https://img.shields.io/badge/Telegram_Bot_API-0088CC?style=for-the-badge&logo=telegram" />
 </p>
 
----
+
 <!-- Badges -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/MohamedMohy10">
     <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=MohamedMohy10&color=blue" />
-  </a>
-  <a href="https://github.com/MohamedMohy10?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Repositories-40+-blue?style=flat-square" />
   </a>
 </p>
