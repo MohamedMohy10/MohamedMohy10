@@ -2,18 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohy</h1>
 <h3 align="center">Python Developer | Software Engineer | AI & Machine learning Engineer</h3>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/MohamedMohy10">
-    <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=MohamedMohy10&color=blue" />
-  </a>
-  <a href="https://github.com/MohamedMohy10?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Repositories-40+-blue?style=flat-square" />
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 
 Python Developer and Software Engineer with a strong interest in Machine Learning and Artificial Intelligence. Passionate about learning, building innovative solutions, and contributing to data-driven projects. Skilled in developing applications and AI models to solve problems. Eager to grow in dynamic, collaborative environments and make meaningful impact through technology. 
@@ -54,20 +42,13 @@ Python Developer and Software Engineer with a strong interest in Machine Learnin
 <img src="https://img.shields.io/badge/Telegram_Bot_API-0088CC?style=for-the-badge&logo=telegram" />
 </p>
 
-
 ---
-
-<!--
-**MohamedMohy10/MohamedMohy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/MohamedMohy10">
+    <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=MohamedMohy10&color=blue" />
+  </a>
+  <a href="https://github.com/MohamedMohy10?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/badge/Repositories-40+-blue?style=flat-square" />
+  </a>
+</p>
