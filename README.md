@@ -3,6 +3,13 @@
 <h3 align="center">Python Developer | Software Engineer | AI & Machine learning Engineer</h3>
 
 
+<!-- Views -->
+<p align="left">
+  <a href="https://github.com/MohamedMohy10">
+    <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=MohamedMohy10&color=blue" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 Python Developer and Software Engineer with a strong interest in Machine Learning and Artificial Intelligence. Passionate about learning, building innovative solutions, and contributing to data-driven projects. Skilled in developing applications and AI models to solve problems. Eager to grow in dynamic, collaborative environments and make meaningful impact through technology. 
@@ -41,12 +48,4 @@ Python Developer and Software Engineer with a strong interest in Machine Learnin
 <!-- Tools & Deployment -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram_Bot_API-0088CC?style=for-the-badge&logo=telegram" />
-</p>
-
-
-<!-- Badges -->
-<p align="left">
-  <a href="https://github.com/MohamedMohy10">
-    <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=MohamedMohy10&color=blue" />
-  </a>
 </p>
