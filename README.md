@@ -1,6 +1,6 @@
 <!-- Title & Intro -->
 <h1 align="center">Hi 👋, I'm Mohamed Mohy</h1>
-<h3 align="center">AI & Machine learning Engineer | Software Engineer | Python Developer </h3>
+<h3 align="center">Python Developer | AI & Machine learning Engineer | Software Engineer</h3>
 
 
 <!-- Views -->
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Python Developer and Software Engineer with a strong interest in Machine Learning and Artificial Intelligence. Passionate about learning, building innovative solutions, and contributing to data-driven projects. Skilled in developing applications and AI models to solve problems. Eager to grow in dynamic, collaborative environments and make meaningful impact through technology. 
+Python Software Engineer with a wide variety of technical skills, experience in application development, backend APIs, and applied machine learning. Skilled in APIs design, processing and analyzing data, and developing analytical applications. Seeking roles at the intersection of AI, machine learning, data science, and data-driven software development.
 
 - Currently pursuing an **M.Sc. in Artificial Intelligence Engineering**  
 - Experienced in developing **Python applications, and ML/AI solutions**  
