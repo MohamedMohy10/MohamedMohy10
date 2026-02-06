@@ -1,6 +1,6 @@
 <!-- Title & Intro -->
 <h1 align="center">Hi 👋, I'm Mohamed Mohy</h1>
-<h3 align="center">Python Developer | Software Engineer | AI & Machine learning Engineer </h3>
+<h3 align="center"> AI & Machine learning Engineer | Python Developer </h3>
 
 
 <!-- Views -->
