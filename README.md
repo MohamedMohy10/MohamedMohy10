@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Python Software Engineer with a wide variety of technical skills, experience in application development, backend APIs, and applied machine learning. Skilled in APIs design, processing and analyzing data, and developing analytical applications. Seeking roles at the intersection of AI, machine learning, data science, and data-driven software development.
+Applied AI & Machine Learning Engineer with a strong Python background and hands-on experience in computer vision, deep learning, and data-driven systems. Experienced in building and evaluating ML models and translating prototypes into practical, industrial-grade solutions that solve real-world problems.
 
 - Currently pursuing an **M.Sc. in Artificial Intelligence Engineering**  
 - Experienced in developing **Python applications, and ML/AI solutions**  
