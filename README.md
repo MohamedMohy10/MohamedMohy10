@@ -55,6 +55,7 @@ Applied AI & Machine Learning Engineer with a strong Python background and hands
 <!-- AI & LLM Tools -->
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
