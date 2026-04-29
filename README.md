@@ -1,6 +1,6 @@
 <!-- Title & Intro -->
 <h1 align="center">Hi 👋, I'm Mohamed Mohy</h1>
-<h3 align="center"> AI & Machine learning Engineer | Python Developer | Software Engineer </h3>
+<h3 align="center"> AI & Machine learning Engineer | LLMs & RAG Systems | AI Agents | Computer Vision | Python Backend Developer </h3>
 
 
 <!-- Views -->
