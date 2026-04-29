@@ -12,12 +12,10 @@
 
 ## 🚀 About Me
 
-Applied AI & Machine Learning Engineer with a strong Python background and hands-on experience in computer vision, deep learning, and data-driven systems. Experienced in building and evaluating ML models and translating prototypes into practical, industrial-grade solutions that solve real-world problems.
-
-- Currently pursuing an **M.Sc. in Artificial Intelligence Engineering**  
-- Experienced in developing **Python applications, and ML/AI solutions**  
-- Passionate about solving real-world problems with code  
-- Open to collaboration and professional opportunities
+AI & Machine Learning Engineer with focus on building end-to-end practical AI applications including LLM-based 
+systems, RAG pipelines, autonomous agents, and data-driven backend architectures. Strong background in Python 
+backend development and production software systems, with additional experience in computer vision and industrial 
+automation environments. 
 
 ---
 
