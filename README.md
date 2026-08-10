@@ -24,7 +24,7 @@ automation environments.
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,c,cpp,cs,java,html,css,pytorch,opencv,pandas,numpy,git,github,docker,postgres,mysql,mongodb,redis,aws,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,c,cpp,cs,java,html,css,pytorch,opencv,git,github,docker,postgres,mysql,mongodb,redis,aws,linux&theme=dark&perline=8" />
 </a>
 
 <br><br>
