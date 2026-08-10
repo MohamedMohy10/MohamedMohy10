@@ -24,7 +24,7 @@ automation environments.
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,c,cpp,cs,pytorch,opencv,git,github,docker,postgres,mysql,mongodb,redis,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,c,cpp,cs,pytorch,opencv,git,github,docker,postgres,mysql,mongodb,redis,linux&theme=dark&perline=8" />
 </a>
 
 <br><br>
@@ -88,7 +88,7 @@ automation environments.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
